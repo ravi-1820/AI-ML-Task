@@ -1,7 +1,7 @@
 # LSTM Text Generator - Experimental Variations
 
-This script explores different LSTM architectures and hyperparameters
-to analyze their impact on text generation quality.
+# This script explores different LSTM architectures and hyperparameters
+# to analyze their impact on text generation quality.
 
 import numpy as np
 import tensorflow as tf
